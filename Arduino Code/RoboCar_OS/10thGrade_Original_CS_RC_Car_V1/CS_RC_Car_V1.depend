@@ -1,0 +1,120 @@
+# depslib dependency file v1.0
+1385228213 source:c:\users\arduino\downloads\code blocks\codeblocks\arduino\libraries\afmotor\afmotor.cpp
+	"Arduino.h"
+	<avr/io.h>
+	"WProgram.h"
+	"AFMotor.h"
+
+1371029501 c:\users\arduino\downloads\code blocks\codeblocks\arduino\hardware\arduino\cores\arduino\arduino.h
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<avr/pgmspace.h>
+	<avr/io.h>
+	<avr/interrupt.h>
+	"binary.h"
+	"WCharacter.h"
+	"WString.h"
+	"HardwareSerial.h"
+	"pins_arduino.h"
+
+1362983350 c:\users\arduino\downloads\code blocks\codeblocks\arduino\hardware\arduino\cores\arduino\binary.h
+
+1362983350 c:\users\arduino\downloads\code blocks\codeblocks\arduino\hardware\arduino\cores\arduino\wcharacter.h
+	<ctype.h>
+
+1371029533 c:\users\arduino\downloads\code blocks\codeblocks\arduino\hardware\arduino\cores\arduino\wstring.h
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<avr/pgmspace.h>
+
+1362983350 c:\users\arduino\downloads\code blocks\codeblocks\arduino\hardware\arduino\cores\arduino\hardwareserial.h
+	<inttypes.h>
+	"Stream.h"
+	"USBAPI.h"
+
+1371029229 c:\users\arduino\downloads\code blocks\codeblocks\arduino\hardware\arduino\cores\arduino\stream.h
+	<inttypes.h>
+	"Print.h"
+
+1362983350 c:\users\arduino\downloads\code blocks\codeblocks\arduino\hardware\arduino\cores\arduino\print.h
+	<inttypes.h>
+	<stdio.h>
+	"WString.h"
+	"Printable.h"
+
+1362983350 c:\users\arduino\downloads\code blocks\codeblocks\arduino\hardware\arduino\cores\arduino\printable.h
+	<new.h>
+
+1362983350 c:\users\arduino\downloads\code blocks\codeblocks\arduino\hardware\arduino\cores\arduino\new.h
+	<stdlib.h>
+
+1362983350 c:\users\arduino\downloads\code blocks\codeblocks\arduino\hardware\arduino\cores\arduino\usbapi.h
+
+1362983350 c:\users\arduino\downloads\code blocks\codeblocks\arduino\hardware\arduino\variants\standard\pins_arduino.h
+	<avr/pgmspace.h>
+
+1385228213 c:\users\arduino\downloads\code blocks\codeblocks\arduino\libraries\afmotor\afmotor.h
+	<inttypes.h>
+	<avr/io.h>
+
+1385228213 source:c:\users\arduino\documents\tech\programing\code blocks\cs_rc_car_v1\afmotor\afmotor.cpp
+	"Arduino.h"
+	<avr/io.h>
+	"WProgram.h"
+	"AFMotor.h"
+
+1385228213 c:\users\arduino\documents\tech\programing\code blocks\cs_rc_car_v1\afmotor\afmotor.h
+	<inttypes.h>
+	<avr/io.h>
+
+1385233123 source:c:\users\arduino\documents\tech\programing\code blocks\cs_rc_car_v1\cs_rc_car_v1.ino
+	<SPI.h>
+	<Arduino.h>
+	<AFMotor.h>
+	<EthernetUdp.h>
+
+1355115032 c:\users\arduino\downloads\code blocks\codeblocks\arduino\libraries\ethernet\ethernetudp.h
+	<Udp.h>
+
+1362983350 c:\users\arduino\downloads\code blocks\codeblocks\arduino\hardware\arduino\cores\arduino\udp.h
+	<Stream.h>
+	<IPAddress.h>
+
+1362983350 c:\users\arduino\downloads\code blocks\codeblocks\arduino\hardware\arduino\cores\arduino\ipaddress.h
+	<Printable.h>
+
+1385258118 source:c:\users\arduino\google drive\10th grade\computer science\final project\arduino code\cs_rc_car_v1\cs_rc_car_v1.ino
+	<SPI.h>
+	<Arduino.h>
+	<AFMotor.h>
+	<EthernetUdp.h>
+	<Ethernet.h>
+
+1355115030 c:\users\arduino\downloads\code blocks\codeblocks\arduino\libraries\ethernet\ethernet.h
+	<inttypes.h>
+	"IPAddress.h"
+	"EthernetClient.h"
+	"EthernetServer.h"
+	"Dhcp.h"
+
+1355115032 c:\users\arduino\downloads\code blocks\codeblocks\arduino\libraries\ethernet\ethernetclient.h
+	"Arduino.h"
+	"Print.h"
+	"Client.h"
+	"IPAddress.h"
+
+1362983350 c:\users\arduino\downloads\code blocks\codeblocks\arduino\hardware\arduino\cores\arduino\client.h
+	"Print.h"
+	"Stream.h"
+	"IPAddress.h"
+
+1355115032 c:\users\arduino\downloads\code blocks\codeblocks\arduino\libraries\ethernet\ethernetserver.h
+	"Server.h"
+
+1362983350 c:\users\arduino\downloads\code blocks\codeblocks\arduino\hardware\arduino\cores\arduino\server.h
+
+1355115030 c:\users\arduino\downloads\code blocks\codeblocks\arduino\libraries\ethernet\dhcp.h
+	"EthernetUdp.h"
+
